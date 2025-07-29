@@ -118,7 +118,3 @@ Deploy as Streamlit dashboard
 
 Include interactive filters for sector/country
 
-🔗 Link to Notebook
-
-Open in Google Colab
-
